@@ -4,7 +4,9 @@ A customer-support agent for the fictional Indian store **ZentroMart**. It answe
 company's policy documents (RAG), holds a multi-turn conversation with order lookup / ticket
 tools, and talks over the phone using **Gnani STT + TTS** (the only speech services used).
 
-GitHub repo: `<PASTE YOUR PUBLIC GITHUB URL HERE>`
+GitHub repo: https://github.com/priyanshiy1312-ui/zentromart-voiceops
+
+Demo video: https://drive.google.com/file/d/1jEGspbkdTiCn7PIFy0gv8f2_lgcqnkqs/view?usp=sharing
 
 ```
 audio in -> Gnani STT -> agent (LLM + RAG + tools) -> Gnani TTS -> audio out
